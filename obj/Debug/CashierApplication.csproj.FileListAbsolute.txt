@@ -1,0 +1,11 @@
+C:\Users\JM\source\repos\CashierApplication\bin\Debug\CashierApplication.exe.config
+C:\Users\JM\source\repos\CashierApplication\bin\Debug\CashierApplication.exe
+C:\Users\JM\source\repos\CashierApplication\bin\Debug\CashierApplication.pdb
+C:\Users\JM\source\repos\CashierApplication\obj\Debug\CashierApplication.csproj.AssemblyReference.cache
+C:\Users\JM\source\repos\CashierApplication\obj\Debug\CashierApplication.Properties.Resources.resources
+C:\Users\JM\source\repos\CashierApplication\obj\Debug\CashierApplication.csproj.GenerateResource.cache
+C:\Users\JM\source\repos\CashierApplication\obj\Debug\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\JM\source\repos\CashierApplication\obj\Debug\CashierApplication.exe
+C:\Users\JM\source\repos\CashierApplication\obj\Debug\CashierApplication.pdb
+C:\Users\JM\source\repos\CashierApplication\obj\Debug\CashierApplication.frmDiscountedItem.resources
+C:\Users\JM\source\repos\CashierApplication\obj\Debug\CashierApplication.frmLogInAccount.resources
